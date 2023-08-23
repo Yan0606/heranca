@@ -1,0 +1,14 @@
+D:\Usuario\Desktop\heranca\bin\Debug\net7.0\heranca.exe
+D:\Usuario\Desktop\heranca\bin\Debug\net7.0\heranca.deps.json
+D:\Usuario\Desktop\heranca\bin\Debug\net7.0\heranca.runtimeconfig.json
+D:\Usuario\Desktop\heranca\bin\Debug\net7.0\heranca.dll
+D:\Usuario\Desktop\heranca\bin\Debug\net7.0\heranca.pdb
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.AssemblyInfo.cs
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.dll
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\refint\heranca.dll
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.pdb
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\heranca.genruntimeconfig.cache
+D:\Usuario\Desktop\heranca\obj\Debug\net7.0\ref\heranca.dll
